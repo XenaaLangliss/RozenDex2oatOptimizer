@@ -1,3 +1,7 @@
+# 1.5.2
+
+- change compile speed to speed-profile
+
 # 1.5
 
 - fix logs
